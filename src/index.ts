@@ -1,3 +1,3 @@
-import { bob } from "./example/names";
+import { bob } from "./followers/follower";
 
-console.log(bob + " 5");
+console.log(bob + " f1");
